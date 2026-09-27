@@ -1,2 +1,3 @@
-# pose-based-human-activity-recognition
-Human activity recognition using 2D pose keypoints, temporal sequence modeling, LSTM, and video-based inference.
+# Notebooks
+
+Notebook work is intentionally kept separate from the source implementation. Recommended experiments: inspect class balance, train the LSTM, plot loss/accuracy, calculate a confusion matrix, and test video inference.

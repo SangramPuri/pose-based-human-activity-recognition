@@ -1,0 +1,6 @@
+numpy>=1.24,<3
+torch>=2.2,<3
+scikit-learn>=1.4,<2
+flask>=3.0,<4
+opencv-python>=4.8,<5
+pytest>=8,<9
